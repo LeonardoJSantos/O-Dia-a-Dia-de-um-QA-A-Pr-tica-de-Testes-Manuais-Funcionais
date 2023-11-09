@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10000</projectId>
+    <projectKey>LEOHLU</projectKey>
+    <exportDate>2023-11-09 20:04:20 UTC</exportDate>
+    <folders>
+        <folder fullPath="Login" index="0"/>
+    </folders>
+    <testCases>
+        <testCase id="111819581" key="LEOHLU-T3">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Leonardo Juliano</createdBy>
+            <createdOn>2023-11-09 19:09:14 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Cenario: Cliente sem cadastro tenta fazer login]]></name>
+            <objective><![CDATA[Fazer Login no sistema]]></objective>
+            <owner>712020:d8cf903d-ecf9-44bd-9179-86d319a13442</owner>
+            <precondition><![CDATA[fazer o cadastro do cliente]]></precondition>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[O cliente isere o nome no campo de Id_cliente]]></description>
+                        <expectedResult><![CDATA[O cliente recebe um retorno que o username nao existe<br><br><br>]]></expectedResult>
+                        <testData><![CDATA[&quot;Leonardo&quot;]]></testData>
+                    </step>
+                    <step index="1">
+                        <customFields/>
+                        <description><![CDATA[O cliente entra com um novo ususario a tela de cadastro]]></description>
+                        <expectedResult><![CDATA[O sistema retorna usuario cadastrado com sucesso]]></expectedResult>
+                        <testData><![CDATA[Insere o nome de UserName]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="111819739" key="LEOHLU-T4">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Leonardo Juliano</createdBy>
+            <createdOn>2023-11-09 19:18:33 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Login]]></folder>
+            <issues>
+                <issue>
+                    <key>LEOHLU-4</key>
+                    <summary><![CDATA[Levantamento e escrita de testes manuais]]></summary>
+                </issue>
+            </issues>
+            <labels/>
+            <name><![CDATA[Cliente com cadastro no sistema informa dados incorretos de acesso.]]></name>
+            <objective><![CDATA[Validar usuario e senha do usuario]]></objective>
+            <owner>712020:d8cf903d-ecf9-44bd-9179-86d319a13442</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Usuario estajana tela de login e fornece um login invalido]]></description>
+                        <expectedResult><![CDATA[Usuario nao encontrado]]></expectedResult>
+                        <testData><![CDATA[Testar usuario esta no banco de dados]]></testData>
+                    </step>
+                    <step index="1">
+                        <customFields/>
+                        <description><![CDATA[Usuario digita o ligin certo porem digita a senha erada]]></description>
+                        <expectedResult><![CDATA[Senha incorreta tente novamente]]></expectedResult>
+                        <testData><![CDATA[Testar se o usuario digitou&nbsp; asenha correta]]></testData>
+                    </step>
+                    <step index="2">
+                        <customFields/>
+                        <description><![CDATA[Caso o usuario esqueca a senha]]></description>
+                        <expectedResult><![CDATA[Sera enviado um link para uma nova senha em seu email]]></expectedResult>
+                        <testData><![CDATA[Testar se o usuario que recuperrar a senha]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>

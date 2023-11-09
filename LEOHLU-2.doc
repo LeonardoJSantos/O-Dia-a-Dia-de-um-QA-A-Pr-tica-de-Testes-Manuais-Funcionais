@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#LEOHLU-2] Como usuario deseja acessar a pagina de loggin da loja virtual afim de visualizar opcoes de loggin cadastro e definicoes reedefinicao de senhaca</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://lickerbh9.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [LEOHLU-2]&nbsp;<a href="https://lickerbh9.atlassian.net/browse/LEOHLU-2">Como usuario deseja acessar a pagina de loggin da loja virtual afim de visualizar opcoes de loggin cadastro e definicoes reedefinicao de senhaca</a>
+            <span class="subText">
+               Criado: 08/nov/23                   &nbsp;Atualizado(a): 09/nov/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Em andamento</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://lickerbh9.atlassian.net/secure/BrowseProject.jspa?id=10000">Projeto_BootCamp_dio_Wex</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:d8cf903d-ecf9-44bd-9179-86d319a13442"
+                id="word_reporter_712020:d8cf903d-ecf9-44bd-9179-86d319a13442"
+                href="https://lickerbh9.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad8cf903d-ecf9-44bd-9179-86d319a13442">
+                    Leonardo Juliano
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10001-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ da estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ de Tempo Gasto:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ da Estimativa Original:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Subtarefas:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Chave</b><br/>
+                </td>
+                <td>
+                    <b>Resumo</b><br/>
+                </td>
+                <td>
+                    <b>Tipo</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Responsável</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://lickerbh9.atlassian.net/browse/LEOHLU-4">LEOHLU-4</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://lickerbh9.atlassian.net/browse/LEOHLU-4">Levantamento e escrita de testes manuais</a>
+                    </td>
+                    <td>
+                        Subtarefa
+                    </td>
+                    <td>
+                        Em andamento
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://lickerbh9.atlassian.net/browse/LEOHLU-5">LEOHLU-5</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://lickerbh9.atlassian.net/browse/LEOHLU-5">Execucao de testes manuais</a>
+                    </td>
+                    <td>
+                        Subtarefa
+                    </td>
+                    <td>
+                        Tarefas pendentes
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10001-value" class="value" bgcolor="#ffffff" width="80%">      0|hzzzzr:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10001-value" class="value" bgcolor="#ffffff" width="80%">quadro Sprint 1</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>1 Valor</b> A autenticacao do usuario na loja virtual e importante para que os clientes possam cadastrar na plataforma comseguranca e fazer pedidos. essa funcionalidade visa unificar o fluxo de acesso ao site que o usuario posssa se cadastrar,fazer login oo=u redefinir a senha na loja virttual.</p>
+
+
+
+<p><b>2 Narrativa do usuario</b></p>
+
+<p><b>Como</b> cliente</p>
+
+<p><b>Eu quero</b> acessar pagina del ogin do uduario</p>
+
+<p><b>Para</b> visualizar opcoes de login cadastro e redefinicao de senha</p>
+
+
+
+<p><b>3 Requisistos</b></p>
+
+<ul>
+	<li><b>Atores Clientes</b></li>
+	<li><b>Interface</b> Ver Documentos em anexo</li>
+	<li><b>Dados</b></li>
+	<li>Criação de banco dedados .Tabelas para armazenamento dedadps e cadastro do cliente</li>
+	<li>Criação de API para integração do front end e back and.</li>
+	<li>Criação da tela de login para permitir o usuario acesse a pagina de cadrastro do usuario</li>
+	<li><b>Plataforma Ambiente</b></li>
+	<li>Web/Web Mobile</li>
+	<li>Devem ser configurações ambientes e pipilines para desenvolvimento ,homologação de suario . Homologação do QA e produção .</li>
+	<li><b>Criterios de aceite</b></li>
+	<li>Usuario devera visualizar formulario para fazer loggin e entrar na loja virtual</li>
+	<li>Usuario devera visualizar botao para acesar a pagina de cadastro de sistema.</li>
+</ul>
+
+
+<p>Usuario devera vusualizar botaode acesso a tela “esquecia senha”.</p>
+
+<p>OU</p>
+
+<ol>
+	<li>Cenario .Cliente sem cadastro deseja criar uma conta</li>
+</ol>
+
+
+<p>      Dado que o clinte estaja na tela de login                         </p>
+
+<p>      E  nao esdteja cadastrado no sistema   </p>
+
+<p>     Quando clicar e, “Criar Conta   </p>
+
+<p>    Entao sera redirecionado para uma tela de criacao de conta</p>
+
+<p>2. Cenario: Cliente sem cadastro tenta fazer login</p>
+
+<p>   Dado que o cliente sem cadastro  tenta fazer login.</p>
+
+<p>   E adiciona umnovo username nao cadastrado.</p>
+
+<p>   Quando clicar em “criar conta </p>
+
+<p>  Entao uma mensagem surgira avisando que a conta nao existe.</p>
+
+<p>3. Cenario: Cliente com cadastro no sistema informa dados incorretos de acesso. </p>
+
+<p>    Dado que o cliente esteja na tela de login.</p>
+
+<p>   E adicione um username incorreto.   </p>
+
+<p>   Mas escreva uma senha incorreta.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Thu Nov 09 20:26:56 UTC 2023 por Leonardo Juliano usando JIRA 1001.0.0-SNAPSHOT#100241-sha1:32fc677dc61e5d7ac8852a7cc7da9150a8885094.
+
+</body>
+</html>
